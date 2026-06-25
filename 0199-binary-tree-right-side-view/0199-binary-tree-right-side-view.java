@@ -28,7 +28,7 @@ class Solution {
 
         if(max_depth < currLevel){
             ll.add(root.val);
-            max_depth = currLevel;
+            max_depth++;
         }
 
         rightView(root.right, currLevel+1 , ll);
