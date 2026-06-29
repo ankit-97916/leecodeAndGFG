@@ -12,6 +12,7 @@
 | [0113-path-sum-ii](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0226-invert-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
@@ -25,6 +26,7 @@
 | [0113-path-sum-ii](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -33,6 +35,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -44,6 +47,7 @@
 | [0113-path-sum-ii](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0226-invert-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
