@@ -29,10 +29,10 @@ class Solution {
         }
 
         path.add(root.val);
-        currSum+=root.val;
+        
         // leaft node 
         if(root.left == null && root.right == null){
-            if(currSum == targetSum){
+            if(currSum+root.val == targetSum){
                 ans.add(new ArrayList<>(path));
             }
             path.remove(path.size()-1);
@@ -40,9 +40,9 @@ class Solution {
         }
 
         //explore left side --
-        pathsum(root.left, targetSum, currSum, ans, path);
+        pathsum(root.left, targetSum, currSum+root.val, ans, path);
         //explore right side ---
-        pathsum(root.right, targetSum, currSum, ans, path);
+        pathsum(root.right, targetSum, currSum+root.val, ans, path);
         path.remove(path.size()-1); ///back track 
 
 
