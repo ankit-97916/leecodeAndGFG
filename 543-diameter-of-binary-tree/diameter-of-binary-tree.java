@@ -29,7 +29,8 @@ class Solution {
         //
         int leftheight = height(node.left);
         int rightHeight = height(node.right);
-        diameter = Math.max(leftheight + rightHeight, diameter);
+        int currdiameter = leftheight + rightHeight; // curr dimater
+        diameter = Math.max(currdiameter , diameter);
         return Math.max(leftheight, rightHeight)+1;
 
     }
