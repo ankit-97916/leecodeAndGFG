@@ -21,6 +21,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0572-subtree-of-another-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -40,6 +41,7 @@
 | [0404-sum-of-left-leaves](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -72,6 +74,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0572-subtree-of-another-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -83,4 +86,12 @@
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0113-path-sum-ii) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
