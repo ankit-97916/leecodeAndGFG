@@ -85,10 +85,12 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0022-generate-parentheses) |
 | [0113-path-sum-ii](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0113-path-sum-ii) |
 ## String Matching
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0022-generate-parentheses) |
 | [0572-subtree-of-another-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -114,4 +116,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0215-kth-largest-element-in-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
