@@ -80,6 +80,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0098-validate-binary-search-tree) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0450-delete-node-in-a-bst](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Backtracking
@@ -100,6 +101,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0215-kth-largest-element-in-an-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -108,6 +110,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0215-kth-largest-element-in-an-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -120,4 +123,12 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0022-generate-parentheses) |
+## Hash Table
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0350-intersection-of-two-arrays-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
