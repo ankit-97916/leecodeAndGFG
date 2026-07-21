@@ -43,6 +43,7 @@
 | [0563-binary-tree-tilt](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0572-subtree-of-another-tree) |
 | [0785-is-graph-bipartite](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0785-is-graph-bipartite) |
+| [1971-find-if-path-exists-in-graph](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 | [0226-invert-binary-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0404-sum-of-left-leaves) |
 | [0785-is-graph-bipartite](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0785-is-graph-bipartite) |
+| [1971-find-if-path-exists-in-graph](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -158,8 +160,10 @@
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0785-is-graph-bipartite) |
+| [1971-find-if-path-exists-in-graph](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0785-is-graph-bipartite) |
+| [1971-find-if-path-exists-in-graph](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
