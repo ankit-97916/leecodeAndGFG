@@ -1,22 +1,25 @@
 class Solution {
     public int climbStairs(int n) {
         int[] dp = new int[n+1];
-        return fibo(n); 
+        return climbCount(n, 0, dp); 
+    }
+    // 
+    public static int climbCount(int n , int i, int[] dp){
+        if(i == n){
+            return 1;
+        }
+        //------------
+        if(i > n){
+            return 0;
+        }
+        //--
+        if(dp[i] != 0){
+            return dp[i];
+        }
+        int climb = climbCount(n ,i+1, dp);
+        int dclimb = climbCount(n , i+2, dp);
+        return dp[i] =  climb+dclimb;
     }
 
- public static int fibo( int n){
-    // int[] dp = new int[n+1]; 
-  if(n <= 2){
-    return n;
-  }
-  //
-  int prev1 =1;
-  int prev2 =1;
-  for(int i=2; i<=n; i++){
-   int c= prev1+prev2;
-   prev1 = prev2;
-   prev2 = c;
-  }
-  return prev2;
-}
+ 
 }
