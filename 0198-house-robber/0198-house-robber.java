@@ -14,16 +14,16 @@ class Solution {
         }
         //
         int[] dp = new int[arr.length];
-        dp[0] = arr[0];
-        dp[1] = Math.max(arr[0], arr[1]);
+        dp[dp.length-1] = arr[arr.length-1];
+        dp[dp.length-2] = Math.max(arr[arr.length-1], arr[arr.length-2]);
         //
-        for(int i=2; i<dp.length; i++){
-            int rob = arr[i] + dp[i-2];
-            int dontrob = dp[i-1];
+        for(int i=dp.length-3; i>=0; i--){
+            int rob = arr[i] + dp[i+2];
+            int dontrob = dp[i+1];
              dp[i] = Math.max(rob, dontrob);
         }
 
-        return dp[dp.length-1];
+        return dp[0];
        
         
      
