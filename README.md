@@ -122,6 +122,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0695-max-area-of-island](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0695-max-area-of-island) |
+| [0746-min-cost-climbing-stairs](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0746-min-cost-climbing-stairs) |
 | [1035-uncrossed-lines](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1035-uncrossed-lines) |
 ## Divide and Conquer
 |  |
@@ -150,6 +151,7 @@
 | [0070-climbing-stairs](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0300-longest-increasing-subsequence) |
+| [0746-min-cost-climbing-stairs](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0746-min-cost-climbing-stairs) |
 | [1035-uncrossed-lines](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1035-uncrossed-lines) |
 ## Hash Table
 |  |
