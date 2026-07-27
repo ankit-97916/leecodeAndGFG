@@ -1,24 +1,24 @@
 class Solution {
     public int climbStairs(int n) {
         int[] dp = new int[n+1];
-        return climbCount(n, 0, dp); 
+        return climbCount(n,  dp); 
     }
     // 
-    public static int climbCount(int n , int i, int[] dp){
-        if(i == n){
-            return 1;
+    public static int climbCount(int n ,  int[] dp){
+        if(n  <= 2){
+            return n;
         }
         //------------
-        if(i > n){
-            return 0;
-        }
+        // if(i > n){
+        //     return 0;
+        // }
         //--
-        if(dp[i] != 0){
-            return dp[i];
+        if(dp[n] != 0){
+            return dp[n];
         }
-        int climb = climbCount(n ,i+1, dp);
-        int dclimb = climbCount(n , i+2, dp);
-        return dp[i] =  climb+dclimb;
+        int climb = climbCount(n-1, dp);
+        int dclimb = climbCount(n-2 ,  dp);
+        return dp[n] =  climb+dclimb;
     }
 
  
