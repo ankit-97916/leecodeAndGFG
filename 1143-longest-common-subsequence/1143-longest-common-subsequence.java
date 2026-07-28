@@ -19,7 +19,7 @@ class Solution {
             return dp[m][n];
          }
         if(text1.charAt(m) == text2.charAt(n)){
-            return 1 + common(text1, text2, dp, m-1, n-1);
+            return dp[m][n] =  1 + common(text1, text2, dp, m-1, n-1);
         }else{
             return dp[m][n] =  Math.max(common(text1 ,text2, dp, m-1 , n),
                             common(text1, text2,dp, m , n-1));
