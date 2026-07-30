@@ -11,35 +11,31 @@ class Solution {
         }
         int half = toatl/2;
         //apply dp
-        Boolean[][] dp = new Boolean[n+1][half+1];
+        boolean[][] dp = new boolean[n+1][half+1];
 
+          // base case--
+          for(int i=0; i<n; i++){
+            dp[i][0] = true;
+          }
 
-        return canpart(arr, arr.length-1, half ,dp);
+      // fill the table---
+         for(int i=1; i<=n; i++){
+            for(int j=1; j<=half; j++){
+                //choice 
+                boolean take = false;
+                if(arr[i-1] <= j){
+                    take = dp[i-1][j-arr[i-1]];
+                }
+                boolean dont = dp[i-1][j];
+
+                dp[i][j] = take || dont; // rememver 
+            }
+         }
+
+         return dp[n][half];
+        
 
     }
     //
-    public static boolean canpart(int[] arr, int i , int sum, Boolean[][] dp){
-        if(sum == 0){
-            return true;
-        }
-        //
-        if(i < 0){
-            return false;
-        }
-      // apply dp--
-      if(dp[i][sum] != null){
-        return dp[i][sum];
-      }
-
-
-        // chices
-        boolean add =  false;
-        if(arr[i] <= sum){
-             add = canpart(arr, i-1, sum-arr[i],dp);
-        }
-        boolean dont = canpart(arr, i-1, sum, dp);
-        dp[i][sum] = add || dont;// remember in table
-        return dp[i][sum];
-
-    }
+   
 }
