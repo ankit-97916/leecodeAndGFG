@@ -125,6 +125,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0416-partition-equal-subset-sum) |
 | [0695-max-area-of-island](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0695-max-area-of-island) |
 | [0746-min-cost-climbing-stairs](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0746-min-cost-climbing-stairs) |
 | [1035-uncrossed-lines](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1035-uncrossed-lines) |
@@ -156,6 +157,7 @@
 | [0198-house-robber](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0516-longest-palindromic-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1025-divisor-game) |
