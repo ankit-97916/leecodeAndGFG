@@ -1,23 +1,21 @@
 class Solution {
     public int climbStairs(int n) {
-        // int[] dp = new int[n+1];
-        return climbCount(n); 
+        int[] dp = new int[n+1];
+
+        Arrays.fill(dp, -1);
+
+        return climb(n, dp);
     }
-    // 
-    public static int climbCount(int n ){
-        if(n  <= 2){
+    public static int climb(int n, int[] dp ){
+        if(n == 1 || n == 2){
             return n;
         }
-        int[] dp = new int[n+1];
-        dp[dp.length-1] =1 ;
-        dp[dp.length-2] = 1;
-        for(int i=dp.length-3; i>=0; i--){
-            dp[i] = dp[i+1]+dp[i+2];
+        if(dp[n] != -1){
+            return dp[n];
         }
-        return dp[0];
-    
-       
-    }
 
- 
+       int step1 =  climb(n-1, dp);
+       int step2 =  climb(n-2, dp);
+       return dp[n] =  step1+step2;
+    }
 }
