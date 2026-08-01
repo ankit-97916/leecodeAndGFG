@@ -156,6 +156,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0198-house-robber) |
@@ -217,6 +218,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0070-climbing-stairs) |
 | [1025-divisor-game](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1025-divisor-game) |
 ## Memoization
@@ -231,4 +233,8 @@
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1025-divisor-game) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
