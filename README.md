@@ -131,6 +131,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0931-minimum-falling-path-sum) |
 | [1035-uncrossed-lines](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1035-uncrossed-lines) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1289-minimum-falling-path-sum-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -167,6 +168,7 @@
 | [1025-divisor-game](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1025-divisor-game) |
 | [1035-uncrossed-lines](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1035-uncrossed-lines) |
 | [1143-longest-common-subsequence](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1143-longest-common-subsequence) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Hash Table
 |  |
@@ -211,6 +213,7 @@
 | [0200-number-of-islands](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0695-max-area-of-island) |
 | [0931-minimum-falling-path-sum](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0931-minimum-falling-path-sum) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1289-minimum-falling-path-sum-ii) |
 ## Math
 |  |
 | ------- |
