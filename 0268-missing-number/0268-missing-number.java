@@ -1,15 +1,17 @@
 class Solution {
     public int missingNumber(int[] arr) {
   // bit manipulation--
-  int xor = 0;
+  int xorOfrange = 0;
   for(int i=0; i<=arr.length; i++){
-    xor = xor ^ i;
+    xorOfrange = xorOfrange ^ i;
   }
+
+  int xorOfelemnt =0;
   for(int i=0; i<arr.length; i++){
-    xor = xor ^ arr[i];
+    xorOfelemnt = xorOfelemnt ^ arr[i];
       }
 
-      return xor;
+      return xorOfrange ^ xorOfelemnt;
 
 
     }
