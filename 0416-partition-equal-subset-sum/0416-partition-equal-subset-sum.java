@@ -1,41 +1,39 @@
 class Solution {
     public boolean canPartition(int[] arr) {
-        int n = arr.length;
-        int toatl = 0;
-        for(int i=0; i<n; i++){
-            toatl += arr[i];
+        int totalSum = 0;
+        for(int i = 0; i<arr.length; i++){
+            totalSum += arr[i];
         }
-
-        if(toatl%2 != 0){
+        if(totalSum%2 != 0){
             return false;
         }
-        int half = toatl/2;
-        //apply dp
-        boolean[][] dp = new boolean[n+1][half+1];
 
-          // base case--
-          for(int i=0; i<n; i++){
-            dp[i][0] = true;
-          }
-
-      // fill the table---
-         for(int i=1; i<=n; i++){
-            for(int j=1; j<=half; j++){
-                //choice 
-                boolean take = false;
-                if(arr[i-1] <= j){
-                    take = dp[i-1][j-arr[i-1]];
-                }
-                boolean dont = dp[i-1][j];
-
-                dp[i][j] = take || dont; // rememver 
-            }
-         }
-
-         return dp[n][half];
-        
-
+        int halfSum = totalSum/2;
+        int n = arr.length;
+        Boolean[][] dp = new Boolean[n][halfSum+1];
+        return canPart(arr, halfSum, n-1, dp);
     }
-    //
-   
+
+    public static boolean canPart(int[] arr,  int sum, int i , Boolean[][] dp ){
+
+          if(sum == 0){
+            return true;
+        }
+        // out range
+        if(i < 0){
+            return false;
+        }
+        // apply dp----
+        if(dp[i][sum] != null){
+            return dp[i][sum];
+        }
+        boolean take = false;
+        if(arr[i] <= sum){
+             take =   canPart(arr, sum-arr[i], i-1, dp);
+        }
+        
+        boolean donttake = canPart(arr, sum, i-1, dp);
+        dp[i][sum] =  take||donttake;
+        return dp[i][sum];
+    }
 }
