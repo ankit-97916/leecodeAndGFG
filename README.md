@@ -269,4 +269,12 @@
 | [0231-power-of-two](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0342-power-of-four) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
