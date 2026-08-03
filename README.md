@@ -141,6 +141,7 @@
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
@@ -254,5 +255,6 @@
 | ------- |
 | [0136-single-number](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
