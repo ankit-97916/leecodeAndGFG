@@ -235,6 +235,7 @@
 | [0231-power-of-two](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0268-missing-number) |
 | [1025-divisor-game](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1025-divisor-game) |
+| [2119-a-number-after-a-double-reversal](https://github.com/ankit-97916/leecodeAndGFG/tree/master/2119-a-number-after-a-double-reversal) |
 ## Memoization
 |  |
 | ------- |
