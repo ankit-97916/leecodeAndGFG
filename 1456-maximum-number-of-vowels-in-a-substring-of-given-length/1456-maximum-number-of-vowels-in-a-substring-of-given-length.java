@@ -1,41 +1,38 @@
 class Solution {
     public int maxVowels(String s, int k) {
-        return maxcount(s, k);
+        return maxVowel(s, k);
     }
 
-    public static int maxcount(String s, int k ){
-        int i = 0;
+    public static int maxVowel(String s , int k){
+        int i= 0;
         int j = 0;
         int count = 0;
-        int max = 0 ;
-
-        while(j <s.length()){
-            // addd current character--
-            if(isVowel(s.charAt(j))){
+        int maxCount = 0;
+        while(j < s.length()){
+            //calculate answer
+            char ch =  s.charAt(j);
+            if(ch == 'a' || ch == 'e' || ch == 'i' ||  ch == 'o' || ch == 'u'){
                 count++;
             }
-
-            if(j-i+1 < k ){ // increse window size---
+            // maintainr window--
+            if(j-i+1 < k){
                 j++;
             }
-
-            else if(j-i+1 == k){
-                max = Math.max(max, count);
-
-             // remove  i 
-            if(isVowel(s.charAt(i))){
+            // when widow full-
+           else if(j-i+1 == k){
+                maxCount = Math.max(count, maxCount);
+            
+            // remove from  window startinf index--
+            char remove = s.charAt(i);
+            if(remove == 'a' || remove == 'e' || remove == 'i' ||remove == 'o' ||remove == 'u' ){
                 count--;
             }
-             i++;
+            // slide the window 
+            i++;
             j++;
 
             }
-           
-           
         }
-        return max;
-    }
-    public static boolean isVowel(char ch){
-        return ch == 'a'|| ch == 'e' || ch == 'i' ||ch == 'o' ||ch == 'u';
+        return maxCount;
     }
 }
