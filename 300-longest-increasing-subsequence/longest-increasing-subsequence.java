@@ -2,7 +2,7 @@ class Solution {
     public int lengthOfLIS(int[] arr) {
         int n = arr.length;
         // because j = -1
-        int[][] dp  = new int[n][n+1];
+        int[][] dp  = new int[n+1][n+1];
         for(int[] a : dp){
             Arrays.fill(a, -1);
         }
