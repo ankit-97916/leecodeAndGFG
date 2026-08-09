@@ -96,6 +96,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0450-delete-node-in-a-bst](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0713-subarray-product-less-than-k](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0713-subarray-product-less-than-k) |
 ## Backtracking
 |  |
 | ------- |
@@ -137,6 +138,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0416-partition-equal-subset-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0695-max-area-of-island) |
+| [0713-subarray-product-less-than-k](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0713-subarray-product-less-than-k) |
 | [0746-min-cost-climbing-stairs](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0931-minimum-falling-path-sum) |
 | [1035-uncrossed-lines](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1035-uncrossed-lines) |
@@ -289,6 +291,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0643-maximum-average-subarray-i) |
+| [0713-subarray-product-less-than-k](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0713-subarray-product-less-than-k) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Longest Increasing Subsequence
@@ -300,4 +303,8 @@
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1143-longest-common-subsequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
