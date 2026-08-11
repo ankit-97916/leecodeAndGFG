@@ -1,32 +1,41 @@
 class Solution {
     public int lengthOfLongestSubstring(String s) {
-        return length(s);
+         return longestSubstring(s);
     }
-    public static int length(String s){
-        HashMap<Character, Integer> map =  new HashMap<>();
-        int i= 0;
-        int j = 0;
-        int maxLength = 0;
-      while(j < s.length()){
-          char ch = s.charAt(j);
-          map.put(ch, map.getOrDefault(ch , 0 )+1); // update answer-- 
-          if(map.size() == j-i+1){
-            maxLength =  Math.max(maxLength, j-i+1);
-            j++;
-          }else{
-            while(map.size() < j-i+1){
-                char remove =  s.charAt(i);
-                map.put(remove, map.get(remove)-1); 
+    public static int longestSubstring(String s ){
+        // hashmap to store unique characters ----
+        HashMap<Character, Integer > map =  new HashMap<>();
+        int i = 0; // left side of window---
+        int j  = 0; // right side of window  ---
+        int maxlength = 0; //initilaize the value of longest substring ---
 
-                if(map.get(remove) == 0){
-                    map.remove(remove);
+        // sliing window pattern 
+        while(j < s.length()){
+            // addcurrent element --
+            char ch = s.charAt(j);
+            map.put(ch, map.getOrDefault(ch , 0) + 1);
+            if(j-i+1 == map.size()){
+                maxlength =  Math.max(maxlength, j-i+1);
+            }else { // widow  j-i+1 > map.size
+             while(  map.size() < j-i+1){
+                char remov = s.charAt(i);
+                map.put(remov, map.get(remov)-1);
+
+
+                if(map.get(remov) == 0){
+                 map.remove(remov);
                 }
-                i++;
+               i++;
+             }
+            
             }
-            j++;
-          }
+             j++;
+            
+        }
 
-      }
-        return maxLength;
+        return maxlength;
+
+
+
     }
 }
