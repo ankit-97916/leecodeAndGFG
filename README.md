@@ -97,6 +97,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0713-subarray-product-less-than-k](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0713-subarray-product-less-than-k) |
+| [0887-super-egg-drop](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0887-super-egg-drop) |
 ## Backtracking
 |  |
 | ------- |
@@ -186,6 +187,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0583-delete-operation-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0746-min-cost-climbing-stairs) |
+| [0887-super-egg-drop](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0887-super-egg-drop) |
 | [0931-minimum-falling-path-sum](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0931-minimum-falling-path-sum) |
 | [1025-divisor-game](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1025-divisor-game) |
 | [1035-uncrossed-lines](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1035-uncrossed-lines) |
@@ -250,6 +252,7 @@
 | [0268-missing-number](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0342-power-of-four) |
+| [0887-super-egg-drop](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0887-super-egg-drop) |
 | [1025-divisor-game](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1025-divisor-game) |
 | [2119-a-number-after-a-double-reversal](https://github.com/ankit-97916/leecodeAndGFG/tree/master/2119-a-number-after-a-double-reversal) |
 ## Memoization
