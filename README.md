@@ -124,6 +124,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0001-two-sum) |
 | [0063-unique-paths-ii](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0120-triangle) |
@@ -197,6 +198,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0242-valid-anagram) |
