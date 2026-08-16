@@ -1,45 +1,46 @@
 class Solution {
-    public boolean isBipartite(int[][] graph) {
-            Queue<BipartitePair>q=new LinkedList<>();
-            HashMap<Integer,Integer>visited=new HashMap<>();
-            for (int i = 0; i < graph.length; i++) {
-                if (visited.containsKey(i)){
-                    continue;
-                }
-                q.add(new BipartitePair(i,0));
-                while (!q.isEmpty()){
-                    //1. Remove
-                    BipartitePair rp=q.poll();
-                    //2. Ignore if Already visited
-                    if (visited.containsKey(rp.vtx)){
-                        if (visited.get(rp.vtx)!= rp.dist){
-                            return false;
-                        }else {
-                            continue;
-                        }
-                    }
-                    //3. Marked Visted
-                    visited.put(rp.vtx,rp.dist);
-                    //4. self Work
-                    
-                    //5. Add unvisited neighbours
-                    for(int nbrs:graph[rp.vtx]){
-                        if (!visited.containsKey(nbrs)){
-                            q.add(new BipartitePair(nbrs,rp.dist+1));
-                        }
-                    }
-
-                }
-            }
-            return true;
+    public class BipertitePair{
+        int vertex;
+        int distance;
+        public BipertitePair(int vertex, int distance){
+            this.vertex =  vertex;
+            this.distance =  distance;
         }
     }
-    class BipartitePair{
-        int vtx;
-        int dist;
-         public BipartitePair(int vtx,int dist){
-             this.vtx=vtx;
-             this.dist=dist;
-         }
+    public boolean isBipartite(int[][] graph) {
+        Queue<BipertitePair> q = new LinkedList<>();
+        HashMap<Integer, Integer> visited  = new HashMap<>();
 
+        for(int key = 0; key < graph.length; key++){
+            if(visited.containsKey(key)){
+                continue;
+            }
+            q.add(new BipertitePair(key, 0));
+            // bfs shuru;
+            while(!q.isEmpty()){
+                // remove --
+                BipertitePair rmPair = q.poll();
+                // ignore--
+                if(visited.containsKey(rmPair.vertex)){
+                    if(visited.get(rmPair.vertex) != rmPair.distance){
+                        return false;
+                    }
+                    continue;
+                }
+                // add mark;
+                visited.put(rmPair.vertex, rmPair.distance);
+                // self work---nothing--
+                // add unvisted nbrs;;
+                for(int nbrs : graph[rmPair.vertex] ){
+                    if(!visited.containsKey(nbrs)){
+                        q.add(new BipertitePair(nbrs, rmPair.distance+1 ) );
+                    }
+                }
+            }
+
+        }
+        return true;
     }
+    
+
+}
