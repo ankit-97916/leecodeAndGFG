@@ -33,7 +33,7 @@ class Solution {
                 // add unvisted nbrs;;
                 for(int nbrs : graph[rmPair.vertex] ){
                     if(!visited.containsKey(nbrs)){
-                        q.add(new BipertitePair(nbrs, 1 - rmPair.distance ) );
+                        q.add(new BipertitePair(nbrs, rmPair.distance-1 ) );
                     }
                 }
             }
