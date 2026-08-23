@@ -63,6 +63,7 @@
 | [0547-number-of-provinces](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0785-is-graph-bipartite) |
+| [0994-rotting-oranges](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -145,6 +146,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0746-min-cost-climbing-stairs) |
 | [0904-fruit-into-baskets](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0904-fruit-into-baskets) |
 | [0931-minimum-falling-path-sum](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0931-minimum-falling-path-sum) |
+| [0994-rotting-oranges](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0994-rotting-oranges) |
 | [1035-uncrossed-lines](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1035-uncrossed-lines) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -244,6 +246,7 @@
 | [0200-number-of-islands](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0695-max-area-of-island) |
 | [0931-minimum-falling-path-sum](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0931-minimum-falling-path-sum) |
+| [0994-rotting-oranges](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0994-rotting-oranges) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1289-minimum-falling-path-sum-ii) |
 ## Math
 |  |
