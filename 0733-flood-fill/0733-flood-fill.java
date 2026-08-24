@@ -27,15 +27,19 @@ class Solution {
 
         // add valid neighbour in stack ----
         if(row-1 >= 0 && image[row-1][col] == oldColor){
+            image[row-1][col] = color;
             st.push(new Pair(row-1, col));
         }
          if(row+1 < rows && image[row+1][col] == oldColor){
+            image[row+1][col] = color;
             st.push(new Pair(row+1, col));
         }
          if(col-1 >= 0 && image[row][col-1] == oldColor){
+            image[row][col-1] = color;
             st.push(new Pair(row, col-1));
         }
          if(col+1 < cols && image[row][col+1] == oldColor){
+            image[row][col+1] = color;
             st.push(new Pair(row, col+1));
         }
 
