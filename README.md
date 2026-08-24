@@ -61,6 +61,7 @@
 | [0200-number-of-islands](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0404-sum-of-left-leaves) |
+| [0542-01-matrix](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0733-flood-fill) |
@@ -142,6 +143,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0416-partition-equal-subset-sum) |
+| [0542-01-matrix](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0713-subarray-product-less-than-k) |
@@ -191,6 +193,7 @@
 | [0392-is-subsequence](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0516-longest-palindromic-subsequence) |
+| [0542-01-matrix](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0583-delete-operation-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0746-min-cost-climbing-stairs) |
 | [0887-super-egg-drop](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0887-super-egg-drop) |
@@ -247,6 +250,7 @@
 | [0063-unique-paths-ii](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0733-flood-fill) |
 | [0931-minimum-falling-path-sum](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0931-minimum-falling-path-sum) |
