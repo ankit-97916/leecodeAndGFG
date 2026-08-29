@@ -94,6 +94,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0098-validate-binary-search-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0098-validate-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -137,6 +138,7 @@
 | [0035-search-insert-position](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0035-search-insert-position) |
 | [0063-unique-paths-ii](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0120-triangle](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0136-single-number) |
@@ -259,6 +261,7 @@
 | ------- |
 | [0063-unique-paths-ii](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0695-max-area-of-island) |
