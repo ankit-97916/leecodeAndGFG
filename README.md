@@ -167,6 +167,7 @@
 | [0994-rotting-oranges](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0994-rotting-oranges) |
 | [1035-uncrossed-lines](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1035-uncrossed-lines) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1289-minimum-falling-path-sum-ii) |
+| [1329-sort-the-matrix-diagonally](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1329-sort-the-matrix-diagonally) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Divide and Conquer
 |  |
@@ -183,6 +184,7 @@
 | [0268-missing-number](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1329-sort-the-matrix-diagonally](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1329-sort-the-matrix-diagonally) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -270,6 +272,7 @@
 | [0931-minimum-falling-path-sum](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0994-rotting-oranges) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1289-minimum-falling-path-sum-ii) |
+| [1329-sort-the-matrix-diagonally](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1329-sort-the-matrix-diagonally) |
 ## Math
 |  |
 | ------- |
