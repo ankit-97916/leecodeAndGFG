@@ -94,6 +94,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0098-validate-binary-search-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0098-validate-binary-search-tree) |
@@ -273,6 +274,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0268-missing-number) |
@@ -359,4 +361,8 @@
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0785-is-graph-bipartite) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
