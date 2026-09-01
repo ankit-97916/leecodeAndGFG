@@ -110,6 +110,7 @@
 | [0875-koko-eating-bananas](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0875-koko-eating-bananas) |
 | [0887-super-egg-drop](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0887-super-egg-drop) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1552-magnetic-force-between-two-balls](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1552-magnetic-force-between-two-balls) |
 ## Backtracking
 |  |
 | ------- |
@@ -171,6 +172,7 @@
 | [1289-minimum-falling-path-sum-ii](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1329-sort-the-matrix-diagonally](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1329-sort-the-matrix-diagonally) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1552-magnetic-force-between-two-balls](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1552-magnetic-force-between-two-balls) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -187,6 +189,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1329-sort-the-matrix-diagonally](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1329-sort-the-matrix-diagonally) |
+| [1552-magnetic-force-between-two-balls](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1552-magnetic-force-between-two-balls) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
