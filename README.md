@@ -293,6 +293,7 @@
 | [1025-divisor-game](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/ankit-97916/leecodeAndGFG/tree/master/2119-a-number-after-a-double-reversal) |
+| [2413-smallest-even-multiple](https://github.com/ankit-97916/leecodeAndGFG/tree/master/2413-smallest-even-multiple) |
 ## Memoization
 |  |
 | ------- |
@@ -379,6 +380,7 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2413-smallest-even-multiple](https://github.com/ankit-97916/leecodeAndGFG/tree/master/2413-smallest-even-multiple) |
 ## Euclidean Algorithm
 |  |
 | ------- |
