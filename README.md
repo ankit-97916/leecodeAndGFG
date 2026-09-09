@@ -173,6 +173,7 @@
 | [1329-sort-the-matrix-diagonally](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1329-sort-the-matrix-diagonally) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1552-magnetic-force-between-two-balls) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -290,6 +291,7 @@
 | [0342-power-of-four](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0342-power-of-four) |
 | [0887-super-egg-drop](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0887-super-egg-drop) |
 | [1025-divisor-game](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1025-divisor-game) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/ankit-97916/leecodeAndGFG/tree/master/2119-a-number-after-a-double-reversal) |
 ## Memoization
 |  |
@@ -373,4 +375,16 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0069-sqrtx) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
