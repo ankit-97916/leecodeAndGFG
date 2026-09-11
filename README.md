@@ -175,6 +175,7 @@
 | [1329-sort-the-matrix-diagonally](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1329-sort-the-matrix-diagonally) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1552-magnetic-force-between-two-balls) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Divide and Conquer
 |  |
