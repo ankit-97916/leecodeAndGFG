@@ -159,6 +159,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0416-partition-equal-subset-sum) |
+| [0485-max-consecutive-ones](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0695-max-area-of-island) |
