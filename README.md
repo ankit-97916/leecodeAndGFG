@@ -138,6 +138,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0035-search-insert-position) |
 | [0063-unique-paths-ii](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0064-minimum-path-sum) |
@@ -183,6 +184,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0242-valid-anagram) |
@@ -239,6 +241,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0015-3sum) |
 | [0349-intersection-of-two-arrays](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0392-is-subsequence) |
