@@ -115,6 +115,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0113-path-sum-ii) |
 ## String Matching
 |  |
@@ -144,6 +145,7 @@
 | [0063-unique-paths-ii](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0120-triangle](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0136-single-number) |
@@ -321,6 +323,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0191-number-of-1-bits) |
