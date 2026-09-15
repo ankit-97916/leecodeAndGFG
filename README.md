@@ -116,6 +116,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0113-path-sum-ii) |
@@ -145,6 +146,7 @@
 | [0018-4sum](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0047-permutations-ii) |
 | [0063-unique-paths-ii](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0074-search-a-2d-matrix) |
@@ -195,6 +197,7 @@
 | ------- |
 | [0015-3sum](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0047-permutations-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0242-valid-anagram) |
