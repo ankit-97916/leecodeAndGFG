@@ -16,30 +16,24 @@ class Solution {
                        List<Integer> li,
                        List<List<Integer>> ans) {
 
-        // Base case
-        if (i == nums.length) {
-            ans.add(new ArrayList<>(li));
-            return;
+        // Current subset add karo
+        ans.add(new ArrayList<>(li));
+
+        for (int j = i; j < nums.length; j++) {
+
+            // Same level par duplicate skip
+            if (j > i && nums[j] == nums[j - 1]) {
+                continue;
+            }
+
+            // Add
+            li.add(nums[j]);
+
+            // Recursive call
+            subset(nums, j + 1, li, ans);
+
+            // Backtrack
+            li.remove(li.size() - 1);
         }
-
-        // INCLUDE
-        li.add(nums[i]);
-
-        subset(nums, i + 1, li, ans);
-
-        // Backtrack
-        li.remove(li.size() - 1);
-
-        // EXCLUDE
-        int next = i + 1;
-
-        // Saare same duplicates skip
-        while (next < nums.length &&
-               nums[next] == nums[i]) {
-
-            next++;
-        }
-
-        subset(nums, next, li, ans);
     }
 }
