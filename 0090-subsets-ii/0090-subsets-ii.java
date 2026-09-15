@@ -1,28 +1,45 @@
 class Solution {
-    public List<List<Integer>> subsetsWithDup(int[] arr) {
-        Arrays.sort(arr);
+
+    public List<List<Integer>> subsetsWithDup(int[] nums) {
+
+        Arrays.sort(nums);
+
         List<List<Integer>> ans = new ArrayList<>();
         List<Integer> li = new ArrayList<>();
-        subsetll(arr, 0, ans, li);
-        return ans;
 
+        subset(nums, 0, li, ans);
+
+        return ans;
     }
 
-    public static void subsetll(int[] arr, int i  , List<List<Integer>> ans, List<Integer> li ){
-        if(i == arr.length){
+    public void subset(int[] nums, int i,
+                       List<Integer> li,
+                       List<List<Integer>> ans) {
+
+        // Base case
+        if (i == nums.length) {
             ans.add(new ArrayList<>(li));
             return;
         }
 
-        li.add(arr[i]);// include 
-        subsetll(arr, i+1, ans, li);
-        li.remove(li.size()-1);// backtrack--
-        // handle duplicate --
-        int next = i+1;
-        while(next < arr.length && arr[next] == arr[i]){
+        // INCLUDE
+        li.add(nums[i]);
+
+        subset(nums, i + 1, li, ans);
+
+        // Backtrack
+        li.remove(li.size() - 1);
+
+        // EXCLUDE
+        int next = i + 1;
+
+        // Saare same duplicates skip
+        while (next < nums.length &&
+               nums[next] == nums[i]) {
+
             next++;
         }
-         subsetll(arr, next, ans, li);
 
+        subset(nums, next, li, ans);
     }
 }
