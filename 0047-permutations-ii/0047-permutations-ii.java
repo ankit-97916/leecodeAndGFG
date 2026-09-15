@@ -20,21 +20,18 @@ class Solution {
             return;
         }
 
+        // Is level par kaunse elements use ho chuke hain
+        HashSet<Integer> set = new HashSet<>();
+
         for (int j = i; j < nums.length; j++) {
 
-            // Check duplicate at current level
-            boolean duplicate = false;
-
-            for (int k = i; k < j; k++) {
-                if (nums[k] == nums[j]) {
-                    duplicate = true;
-                    break;
-                }
-            }
-
-            if (duplicate) {
+            // Agar same element is level par already use ho chuka hai
+            if (set.contains(nums[j])) {
                 continue;
             }
+
+            // Element ko mark kar do
+            set.add(nums[j]);
 
             // Swap
             swap(nums, i, j);
