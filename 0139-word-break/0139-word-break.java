@@ -10,8 +10,12 @@ class Solution {
             return true;
         }
 
-        if(dp[i] != -1){
-           return dp[i] ==  1;
+        if(dp[i] != -1){  // apply dp
+          if(dp[i] == 1){
+            return true;
+          }else{
+           return false;
+          }
             
         }
         //
@@ -20,7 +24,7 @@ class Solution {
             if(wordDictionary.contains(word)){
                 boolean ans = isWord(s, wordDictionary, j, dp);
                 if(ans){
-                    dp[i] = 1;
+                    dp[i] = 1; // store do i table
                     return true;
                 }
             }
