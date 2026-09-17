@@ -132,6 +132,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0079-word-search) |
+| [0139-word-break](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0392-is-subsequence) |
@@ -166,6 +167,7 @@
 | [0090-subsets-ii](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0198-house-robber](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0198-house-robber) |
@@ -235,6 +237,7 @@
 | [0064-minimum-path-sum](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0120-triangle) |
+| [0139-word-break](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0392-is-subsequence) |
@@ -255,6 +258,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0139-word-break](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0268-missing-number) |
@@ -327,6 +331,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0139-word-break) |
 ## Brainteaser
 |  |
 | ------- |
@@ -424,4 +429,12 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0051-n-queens) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
