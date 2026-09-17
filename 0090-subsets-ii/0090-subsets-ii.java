@@ -1,39 +1,29 @@
 class Solution {
-
-    public List<List<Integer>> subsetsWithDup(int[] nums) {
-
-        Arrays.sort(nums);
-
+    public List<List<Integer>> subsetsWithDup(int[] arr) {
+        Arrays.sort(arr);
         List<List<Integer>> ans = new ArrayList<>();
         List<Integer> li = new ArrayList<>();
+         subsetDuplictae(arr, 0, li, ans);
+         return ans;
 
-        subset(nums, 0, li, ans);
-
-        return ans;
     }
 
-    public void subset(int[] nums, int i,
-                       List<Integer> li,
-                       List<List<Integer>> ans) {
-
-        // Current subset add karo
-        ans.add(new ArrayList<>(li));
-
-        for (int j = i; j < nums.length; j++) {
-
-            // Same level par duplicate skip
-            if (j > i && nums[j] == nums[j - 1]) {
-                continue;
-            }
-
-            // Add
-            li.add(nums[j]);
-
-            // Recursive call
-            subset(nums, j + 1, li, ans);
-
-            // Backtrack
-            li.remove(li.size() - 1);
+    public static void subsetDuplictae(int[] arr, int i, List<Integer> li, List<List<Integer>> ans){
+        if(i == arr.length){
+            ans.add(new ArrayList<>(li));
+            return;
         }
+
+        li.add(arr[i]);
+        subsetDuplictae(arr, i+1, li, ans);
+        li.remove(li.size()-1);// backtracking  
+        int next =  i+1;
+        while(next < arr.length && arr[next] == arr[i]){
+            next++;
+        }
+         subsetDuplictae(arr, next, li, ans);
+
+
+
     }
 }
