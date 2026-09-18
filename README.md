@@ -152,6 +152,7 @@
 | [0001-two-sum](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0040-combination-sum-ii) |
@@ -271,6 +272,7 @@
 | ------- |
 | [0015-3sum](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0392-is-subsequence) |
