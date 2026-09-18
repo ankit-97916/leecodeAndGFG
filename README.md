@@ -132,6 +132,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0387-first-unique-character-in-a-string) |
@@ -279,6 +280,7 @@
 | [0018-4sum](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0125-valid-palindrome) |
 | [0349-intersection-of-two-arrays](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0392-is-subsequence) |
