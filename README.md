@@ -339,6 +339,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/ankit-97916/leecodeAndGFG/tree/master/2119-a-number-after-a-double-reversal) |
 | [2413-smallest-even-multiple](https://github.com/ankit-97916/leecodeAndGFG/tree/master/2413-smallest-even-multiple) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/ankit-97916/leecodeAndGFG/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/ankit-97916/leecodeAndGFG/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Memoization
 |  |
@@ -450,4 +451,8 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0139-word-break) |
+## Geometry
+|  |
+| ------- |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/ankit-97916/leecodeAndGFG/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
