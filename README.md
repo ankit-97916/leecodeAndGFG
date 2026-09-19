@@ -130,6 +130,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0125-valid-palindrome) |
@@ -268,6 +269,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0013-roman-to-integer) |
 | [0139-word-break](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0242-valid-anagram) |
@@ -329,6 +331,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0070-climbing-stairs) |
