@@ -198,6 +198,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1035-uncrossed-lines](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1035-uncrossed-lines) |
 | [1046-last-stone-weight](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1046-last-stone-weight) |
+| [1207-unique-number-of-occurrences](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1207-unique-number-of-occurrences) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1329-sort-the-matrix-diagonally](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1329-sort-the-matrix-diagonally) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -274,6 +275,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0387-first-unique-character-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0904-fruit-into-baskets) |
+| [1207-unique-number-of-occurrences](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1207-unique-number-of-occurrences) |
 ## Two Pointers
 |  |
 | ------- |
