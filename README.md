@@ -259,6 +259,7 @@
 | [0931-minimum-falling-path-sum](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0931-minimum-falling-path-sum) |
 | [1025-divisor-game](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1025-divisor-game) |
 | [1035-uncrossed-lines](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1035-uncrossed-lines) |
+| [1137-n-th-tribonacci-number](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1143-longest-common-subsequence) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -337,6 +338,7 @@
 | [0342-power-of-four](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0342-power-of-four) |
 | [0887-super-egg-drop](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0887-super-egg-drop) |
 | [1025-divisor-game](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1025-divisor-game) |
+| [1137-n-th-tribonacci-number](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1137-n-th-tribonacci-number) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/ankit-97916/leecodeAndGFG/tree/master/2119-a-number-after-a-double-reversal) |
@@ -348,6 +350,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0139-word-break) |
+| [1137-n-th-tribonacci-number](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1137-n-th-tribonacci-number) |
 ## Brainteaser
 |  |
 | ------- |
