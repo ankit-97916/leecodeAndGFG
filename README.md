@@ -383,6 +383,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0342-power-of-four) |
@@ -469,6 +470,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0021-merge-two-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
