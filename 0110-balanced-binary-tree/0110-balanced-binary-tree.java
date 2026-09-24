@@ -14,30 +14,23 @@
  * }
  */
 class Solution {
+    boolean found = true;
     public boolean isBalanced(TreeNode root) {
-        return balance(root);
+         height(root);
+         return found;
     }
 
-    public boolean balance(TreeNode root){
-        if(root == null){
-            return true;
-        }
-        int left = height(root.left);
-        int right = height(root.right);
-        int valid = Math.abs(left-right);
-        if(valid > 1){
-            return false;
-        }
-        boolean l = balance(root.left);
-        boolean r = balance(root.right);
-        return l&&r;
-    }
+    
     public int height(TreeNode root){
         if(root == null){
             return -1;
         }
         int left = height(root.left);
         int right = height(root.right);
+        int valid = Math.abs(left - right);
+        if(valid > 1){
+            found = false;
+        }
         return Math.max(left, right)+1;
 
     }
