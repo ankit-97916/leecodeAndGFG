@@ -10,6 +10,7 @@
 | [0101-symmetric-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -83,6 +84,7 @@
 | [0101-symmetric-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -107,6 +109,7 @@
 | [0074-search-a-2d-matrix](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0098-validate-binary-search-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -179,6 +182,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0090-subsets-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0139-word-break) |
@@ -219,6 +223,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0191-number-of-1-bits) |
