@@ -14,24 +14,38 @@
  * }
  */
 class Solution {
-    boolean found = true;
     public boolean isBalanced(TreeNode root) {
-         height(root);
-         return found;
+         Pair ans = Balance(root);
+         return ans.balance;
     }
 
-    
-    public int height(TreeNode root){
-        if(root == null){
-            return -1;
+    class Pair{
+        int height;
+        boolean balance;
+        public Pair(int height, boolean balance){
+            this.height =  height;
+            this.balance = balance;
         }
-        int left = height(root.left);
-        int right = height(root.right);
-        int valid = Math.abs(left - right);
-        if(valid > 1){
-            found = false;
-        }
-        return Math.max(left, right)+1;
+    }
 
+    public Pair Balance(TreeNode root){
+        if(root == null){
+            return new Pair(0,true);
+        }
+
+        Pair left = Balance(root.left);
+        Pair right = Balance(root.right);
+        int height = Math.max(left.height, right.height)+1;
+        boolean balance = true;
+        int valance = Math.abs(left.height - right.height);
+        if(valance > 1){
+            balance = false;
+        }
+
+        if(!left.balance || !right.balance){
+               balance = false;
+        }
+
+        return new Pair(height, balance);
     }
 }
