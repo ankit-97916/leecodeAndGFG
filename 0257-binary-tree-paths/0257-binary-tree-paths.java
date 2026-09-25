@@ -23,13 +23,14 @@ class Solution {
         if(root == null){
             return;
         }
-        s = s+root.val;
+       
         if(root.left == null && root.right == null){
-            list.add(s);
+            list.add(s+root.val);
+            return;
         }
-          s= s+"->";
-        paths(root.left, list, s);
-        paths(root.right, list, s);
+         
+        paths(root.left, list, s+root.val+"->");
+        paths(root.right, list, s+root.val+"->");
 
     }
 }
