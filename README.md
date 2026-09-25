@@ -20,6 +20,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0404-sum-of-left-leaves) |
@@ -47,6 +48,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0404-sum-of-left-leaves) |
@@ -97,6 +99,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0404-sum-of-left-leaves) |
@@ -118,6 +121,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0268-missing-number](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0349-intersection-of-two-arrays) |
@@ -510,4 +514,12 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
