@@ -27,6 +27,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0572-subtree-of-another-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -103,6 +104,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0572-subtree-of-another-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -121,6 +123,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0450-delete-node-in-a-bst](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0450-delete-node-in-a-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0713-subarray-product-less-than-k](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0875-koko-eating-bananas) |
