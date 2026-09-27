@@ -216,6 +216,7 @@
 | [0485-max-consecutive-ones](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0733-flood-fill) |
@@ -519,6 +520,7 @@
 | [0020-valid-parentheses](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0144-binary-tree-preorder-traversal) |
+| [0682-baseball-game](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Binary Lifting
@@ -536,5 +538,6 @@
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
