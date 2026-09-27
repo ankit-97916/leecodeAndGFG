@@ -2,7 +2,6 @@ class Solution {
     public String removeDuplicates(String s) {
         return remove(s);
     }
-
     public String remove(String s){
         Stack<Character> st = new Stack<>();
         for(int i = 0; i<s.length(); i++){
@@ -13,16 +12,12 @@ class Solution {
             }
         }
 
-        String res =  "";
+        StringBuilder res = new StringBuilder();
         while(!st.isEmpty()){
             char ch = st.peek();
             st.pop();
-            res += ch;
+            res.append(ch);
         }
-        String ans  = "";
-        for(int i=res.length()-1; i>=0; i--){
-            ans += res.charAt(i);
-        }
-        return ans;
+        return res.reverse().toString();
     }
 }
