@@ -154,6 +154,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0125-valid-palindrome) |
@@ -512,6 +513,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Lifting
@@ -522,4 +524,8 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
