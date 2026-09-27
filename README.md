@@ -166,6 +166,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0516-longest-palindromic-subsequence) |
 | [0572-subtree-of-another-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0572-subtree-of-another-tree) |
 | [0583-delete-operation-for-two-strings](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0583-delete-operation-for-two-strings) |
+| [0844-backspace-string-compare](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1143-longest-common-subsequence) |
@@ -321,6 +322,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0392-is-subsequence) |
+| [0844-backspace-string-compare](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0876-middle-of-the-linked-list) |
 ## Queue
 |  |
@@ -517,6 +519,7 @@
 | [0020-valid-parentheses](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0144-binary-tree-preorder-traversal) |
+| [0844-backspace-string-compare](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Binary Lifting
 |  |
@@ -530,4 +533,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
