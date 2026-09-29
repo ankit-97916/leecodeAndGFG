@@ -214,6 +214,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0682-baseball-game) |
@@ -309,6 +310,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0904-fruit-into-baskets) |
 | [1207-unique-number-of-occurrences](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1207-unique-number-of-occurrences) |
 ## Two Pointers
@@ -520,6 +522,7 @@
 | [0020-valid-parentheses](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0144-binary-tree-preorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -540,4 +543,8 @@
 | ------- |
 | [0682-baseball-game](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0844-backspace-string-compare) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
