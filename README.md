@@ -222,6 +222,7 @@
 | [0695-max-area-of-island](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0904-fruit-into-baskets) |
@@ -526,6 +527,7 @@
 | [0496-next-greater-element-i](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Binary Lifting
@@ -550,4 +552,5 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
