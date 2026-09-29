@@ -215,6 +215,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0682-baseball-game) |
@@ -523,6 +524,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0144-binary-tree-preorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -547,4 +549,5 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
