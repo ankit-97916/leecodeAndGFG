@@ -112,6 +112,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0074-search-a-2d-matrix) |
@@ -183,6 +184,7 @@
 | [0015-3sum](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0040-combination-sum-ii) |
