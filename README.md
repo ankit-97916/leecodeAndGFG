@@ -131,6 +131,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0713-subarray-product-less-than-k](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0713-subarray-product-less-than-k) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0875-koko-eating-bananas) |
 | [0887-super-egg-drop](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0887-super-egg-drop) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ankit-97916/leecodeAndGFG/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -226,6 +227,7 @@
 | [0733-flood-fill](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0746-min-cost-climbing-stairs) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0904-fruit-into-baskets) |
 | [0931-minimum-falling-path-sum](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0931-minimum-falling-path-sum) |
@@ -555,4 +557,8 @@
 | [0496-next-greater-element-i](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0739-daily-temperatures) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
