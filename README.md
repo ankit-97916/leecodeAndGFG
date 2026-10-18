@@ -158,6 +158,7 @@
 | [0079-word-search](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0257-binary-tree-paths) |
 ## String Matching
 |  |
@@ -168,6 +169,7 @@
 | [0022-generate-parentheses](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0257-binary-tree-paths) |
@@ -293,6 +295,7 @@
 | [0064-minimum-path-sum](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0120-triangle) |
+| [0131-palindrome-partitioning](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0300-longest-increasing-subsequence) |
