@@ -387,6 +387,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0069-sqrtx) |
