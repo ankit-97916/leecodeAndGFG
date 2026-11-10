@@ -136,6 +136,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0450-delete-node-in-a-bst](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0450-delete-node-in-a-bst) |
+| [0540-single-element-in-a-sorted-array](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0540-single-element-in-a-sorted-array) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0713-subarray-product-less-than-k](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0713-subarray-product-less-than-k) |
@@ -231,6 +232,7 @@
 | [0485-max-consecutive-ones](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0503-next-greater-element-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/ankit-97916/leecodeAndGFG/tree/master/0682-baseball-game) |
