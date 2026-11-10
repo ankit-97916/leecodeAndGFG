@@ -10,9 +10,26 @@ class Solution {
             return arr[arr.length-1];
         }
         ////
-        for(int i =1 ; i<arr.length-1; i++){
-            if(arr[i] != arr[i-1] && arr[i] != arr[i+1]){
-                return arr[i];
+        int start  = 0;
+        int end  = arr.length-1;
+
+        while(start <= end){
+            int mid =  (start+end)/2;
+            if(arr[mid] != arr[mid+1] && arr[mid] != arr[mid-1]){
+                return arr[mid];
+            }
+            if(mid %2 == 0){
+                if(arr[mid] == arr[mid-1]){
+                    end  =  mid-1;
+                }else{
+                    start =  mid+1;
+                }
+            }else{
+                if(arr[mid] == arr[mid-1]){
+                    start =  mid+1;
+                }else{
+                    end  = mid-1;
+                }
             }
         }
         return -1;
